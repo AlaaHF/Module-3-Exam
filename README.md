@@ -1,2 +1,2 @@
-# Module-3-Exam
-Sample interactive web page composed of a dice game based on random numbers.
+# dice-simulator
+A single dice game against the house and ability to purchase items
